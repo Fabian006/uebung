@@ -23,6 +23,8 @@ public class hello {
 
 		Byte bvar = (120);
 		System.out.println(bvar + 123);
+		
+		// ende der übung
 
 	}
 
