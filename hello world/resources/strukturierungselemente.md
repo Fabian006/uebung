@@ -15,7 +15,7 @@ Deklaration Beispiel:
 public class DemoKlasse {
 
 }
-
+```
 ## 3. Methode
 Methoden enthalten Anweisungen, Blöcke und Variablen
 Deklaration Beispiel:
